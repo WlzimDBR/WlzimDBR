@@ -1,4 +1,14 @@
-## Hi there 👋
+# Boas vindas ao meu perfil 
+
+**Sou Aluno do** **_Evandro_**
+
+E os _**GURI**_
+
+**00001101194066sp@al.educacao.sp.gov.br**
+
+
+
+
 
 <!--
 **WlzimDBR/WlzimDBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
